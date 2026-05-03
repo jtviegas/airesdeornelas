@@ -59,9 +59,13 @@
   - montagem de armario de 2 portas, em madeira, esquema exemplo:
     ![armario](assets/armario_esquema.png)
   - __notas a discutir__:
+    - __a parte "BASE" no esquema do armario, a ser usada poor sapatos ou para armazenar outras coisas, deve ser tipo gavetas grandes deslizantes__; 
     - temos de dar 10cm de profundidade ao sistema de portas de correr, o que vai fazer recuar o espaco interior do armario para uma profundidade de 50cm
     - sera melhor criar uma barra inferior/rodape de armario, de parede, para servir de base onde colocar os sistema de calhas para que as portas nao batam nos pes? e o sistema de calhas para as portas vai estar ligado ao topo e a base do roupeiro? ou so ao topo?
     - as portas com esta altura vao ser pesadas, e podem empenar com o tempo, vi sugestoes de sistemas de calha superior com amortecimento (soft-close) em que os painéis das portas têm tensores internos ou perfis laterais de alumínio robustos.
+  - exemplos (aproximados - so encontrei com 3 portas):
+    ![exemplo 1](assets/armario_exemplo_sim_3.jpg)
+    ![exemplo 1](assets/armario_exemplo_sim_4.jpg)
 
 
 ## quarto de escritorio
