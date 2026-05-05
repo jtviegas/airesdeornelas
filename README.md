@@ -57,7 +57,40 @@
   - levantamento de parede para armario (espessura 140 mm) a toda a altura do pe direito ate ao tecto falso com barra solida horizontal no topo (a azul e rebordo branco no esquema acima)
     ![exemplo](assets/armario.png)
   - montagem de armario de 2 portas, em madeira, esquema exemplo:
-    ![armario](assets/armario_esquema.png)
+  
+    ```
+    <----------------------- 180 cm (Total) ----------------------------->
+                                                                    
+    +---------------------------------+----------------------------------+  ^
+    |                                 |                                  |  |
+    |            MALEIRO              |            MALEIRO               |  | ~45cm
+    | (Malas, Edredões, Sazonal)      | (Caixas de arrumação)            |  |
+    |                                 |                                  |  v
+    +-------------------+-------------+-------------------------+--------+  ^
+    |                   |             |                         |        |  |
+    |  VARÃO SUPERIOR   |             |       PRATELEIRAS       | PRAT.  |  |
+    |      (45cm)       |             |       AJUSTÁVEIS        | AJUST. |  |
+    | (Camisas/Blusas)  |             |       (Roupa            |        |  |
+    |                   |             |        Dobrada)         |        |  |
+    |					|			  |							|		 |	|
+    +-------------------+ VARÃO LONGO +-------------------------+--------+  |
+    |                   |    (45cm)   |                         |        |  | ~150cm
+    |  VARÃO INFERIOR   | (Sobretudos,|       GAVETAS (4)       | GAVETAS|  |
+    |      (45cm)       |  Vestidos)  |                         |  (4)   |  |
+    | (Calças/Saias)    |             | (Roupa Interior, Meias, |        |  |
+    |                   |             |      Acessórios)        |        |  |
+    |                   |             |                         |        |  |
+    +-------------------+-------------+-------------------------+--------+  v
+    |                                 |                                  |  |
+    |            GAVETA               |            GAVETA              	 |  | ~45cm
+    |           (Sapatos)             |           (Sapatos)              |  |
+    |                                 |                                  |  |
+    +---------------------------------+----------------------------------+  v
+                                                                                                                                          
+    <--------------------------------> <--------------------------------->
+            VÃO ESQUERDO (90cm)              VÃO DIREITO (90cm)
+            (Zona de Pendurar)               (Zona de Arrumação)
+    ```
   - __notas a discutir__:
     - __a parte "BASE" no esquema do armario, a ser usada poor sapatos ou para armazenar outras coisas, deve ser tipo gavetas grandes deslizantes__; 
     - temos de dar 10cm de profundidade ao sistema de portas de correr, o que vai fazer recuar o espaco interior do armario para uma profundidade de 50cm
