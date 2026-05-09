@@ -75,10 +75,10 @@
     |					|			  |							|		 |	|
     +-------------------+ VARÃO LONGO +-------------------------+--------+  |
     |                   |    (45cm)   |                         |        |  | ~150cm
-    |  VARÃO INFERIOR   | (Sobretudos,|       GAVETAS (4)       | GAVETAS|  |
-    |      (45cm)       |  Vestidos)  |                         |  (4)   |  |
+    |  VARÃO INFERIOR   | (Sobretudos,|       GAVETAS (2)       | GAVETAS|  |
+    |      (45cm)       |  Vestidos)  |                         |  (2)   |  |
     | (Calças/Saias)    |             | (Roupa Interior, Meias, |        |  |
-    |                   |             |      Acessórios)        |        |  |
+    |                   |             |Acessórios) (60cm)       |(30cm)  |  |
     |                   |             |                         |        |  |
     +-------------------+-------------+-------------------------+--------+  v
     |                                 |                                  |  |
