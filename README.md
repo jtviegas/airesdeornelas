@@ -72,7 +72,7 @@
     |      (45cm)       |             |       AJUSTÁVEIS        | AJUST. |  |
     | (Camisas/Blusas)  |             |       (Roupa            |        |  |
     |                   |             |        Dobrada)         |        |  |
-    |					|			  |							|		 |	|
+    |					               |			           |							                   |		      |	  |
     +-------------------+ VARÃO LONGO +-------------------------+--------+  |
     |                   |    (45cm)   |                         |        |  | ~150cm
     |  VARÃO INFERIOR   | (Sobretudos,|       GAVETAS (2)       | GAVETAS|  |
