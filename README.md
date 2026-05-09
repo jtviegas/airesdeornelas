@@ -72,18 +72,18 @@
     |      (45cm)       |             |       AJUSTÁVEIS        | AJUST. |  |
     | (Camisas/Blusas)  |             |       (Roupa            |        |  |
     |                   |             |        Dobrada)         |        |  |
-    |					               |			           |							                   |		      |	  |
+    |                   |             |                         |        |  |
     +-------------------+ VARÃO LONGO +-------------------------+--------+  |
     |                   |    (45cm)   |                         |        |  | ~150cm
     |  VARÃO INFERIOR   | (Sobretudos,|       GAVETAS (2)       | GAVETAS|  |
     |      (45cm)       |  Vestidos)  |                         |  (2)   |  |
     | (Calças/Saias)    |             | (Roupa Interior, Meias, |        |  |
-    |                   |             |Acessórios) (60cm)       |(30cm)  |  |
-    |                   |             |                         |        |  |
+    |                   |             |Acessórios)              |        |  |
+    |                   |             |         (60cm)          | (30cm) |  |
     +-------------------+-------------+-------------------------+--------+  v
     |                                 |                                  |  |
-    |            GAVETA               |            GAVETA              	 |  | ~45cm
-    |           (Sapatos)             |           (Sapatos)              |  |
+    |            GAVETA de REDE       |            GAVETA              	 |  | ~45cm
+    |           (Sapatos)             |           (Arrumacao/Outros)     |  |
     |                                 |                                  |  |
     +---------------------------------+----------------------------------+  v
                                                                                                                                           
