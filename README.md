@@ -7,7 +7,9 @@
 ## em comum nos dois quartos
 
 - tecto falso com 2.55m pe direito
-  - colocacao de nova sanca, [exemplo](https://www.leroymerlin.pt/produtos/sanca-homestar-s50-200x4x5cm-17914344.html):
+  - colocacao de nova sanca, 
+  
+    [exemplo](https://www.leroymerlin.pt/produtos/sanca-homestar-s50-200x4x5cm-17914344.html):
     ![sanca](assets/sanca.png)
   - __o material do tecto e da sanca deve ser ambientalmente seguro, sem emissoes de gases nocivos, pode ser__:
     - __poliestireno desde que tenha certificacao "Livre de CFC" e de solventes__
@@ -25,6 +27,15 @@
 - isolamento termico (roofmate) da parede onde se encontra a janela
 - ar condicionado:
   - sistema split inverter - unidade interior (7-9 k btu) e respectiva unidade exterior
+  - colocacao das unidades exteriores:
+    - 1a sugestao
+
+      ![1a sugestao](assets/ac_ext_loc_1.png)
+    - 2a sugestao
+
+      ![2a sugestao](assets/ac_ext_loc_2.png)
+
+
 - todas as ligacoes electricas e eventuais tubagens devem passar, na medida do possivel, pelo tecto falso
 - localizacao em altura de tomadas e interruptores deve ser a comummente usada hoje em dia noutras obras (30cm: tomadas, 1m: interruptores, ...)
 - material electrico
@@ -92,13 +103,13 @@
             (Zona de Pendurar)               (Zona de Arrumação)
     ```
   - __notas a discutir__:
-    - __a parte "BASE" no esquema do armario, a ser usada poor sapatos ou para armazenar outras coisas, deve ser tipo gavetas grandes deslizantes__; 
+
     - temos de dar 10cm de profundidade ao sistema de portas de correr, o que vai fazer recuar o espaco interior do armario para uma profundidade de 50cm
     - sera melhor criar uma barra inferior/rodape de armario, de parede, para servir de base onde colocar os sistema de calhas para que as portas nao batam nos pes? e o sistema de calhas para as portas vai estar ligado ao topo e a base do roupeiro? ou so ao topo?
     - as portas com esta altura vao ser pesadas, e podem empenar com o tempo, vi sugestoes de sistemas de calha superior com amortecimento (soft-close) em que os painéis das portas têm tensores internos ou perfis laterais de alumínio robustos.
-  - exemplos (aproximados - so encontrei com 3 portas):
+  - exemplo (aproximado - so encontrei com 3 portas):
     ![exemplo 1](assets/armario_exemplo_sim_3.jpg)
-    ![exemplo 1](assets/armario_exemplo_sim_4.jpg)
+
 
 
 ## quarto de escritorio
