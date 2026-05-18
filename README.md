@@ -7,7 +7,11 @@
 ## em comum nos dois quartos
 
 - tecto falso com 2.55m pe direito
-  - colocacao de nova sanca, 
+  - material do tecto falso:
+    - placas de gesso cartonado hidrófugo (verdes)
+    - estrutura de aço galvanizado
+    - barramento com massas de base aquosa de baixa emissão, massas de juntas com certificação Classe E1 ou A+
+  - colocacao de nova sanca
   
     [exemplo](https://www.leroymerlin.pt/produtos/sanca-homestar-s50-200x4x5cm-17914344.html):
     ![sanca](assets/sanca.png)
