@@ -41,11 +41,14 @@
 
 
 - todas as ligacoes electricas e eventuais tubagens devem passar, na medida do possivel, pelo tecto falso
-- luzes led no tecto - devem ter uma estetica discreta
+- luzes led no tecto
+  - os focos devem ser encastrados com anéis de estanquidade para selar completamente o ar do teto falso
+  - devem ter uma estetica discreta
 
   exemplo:
   
     ![leds tecto](assets/leds_tecto.png)
+
 - localizacao em altura de tomadas e interruptores deve ser a comummente usada hoje em dia noutras obras (30cm: tomadas, 1m: interruptores, ...)
 - material electrico
   - interruptores e tomadas, [exemplo](https://www.leroymerlin.pt/produtos/eletricidade-e-smart-home/interruptores-e-tomadas/series-de-interruptores-e-tomadas/serie-logus/):
