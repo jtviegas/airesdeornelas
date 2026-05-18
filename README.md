@@ -15,7 +15,7 @@
   
     [exemplo](https://www.leroymerlin.pt/produtos/sanca-homestar-s50-200x4x5cm-17914344.html):
     ![sanca](assets/sanca.png)
-  - __o material do tecto e da sanca deve ser ambientalmente seguro, sem emissoes de gases nocivos, pode ser__:
+  - __o material da sanca deve ser ambientalmente seguro, sem emissoes de gases nocivos, pode ser__:
     - __poliestireno desde que tenha certificacao "Livre de CFC" e de solventes__
 - reentrancia no tecto falso junto da janela para colocacao de suporte de cortinados escondido. Exemplo:
   ![exemplo](assets/tecto_falso_cortinados.png)
