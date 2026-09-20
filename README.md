@@ -17,8 +17,6 @@
     ![sanca](assets/sanca.png)
   - __o material da sanca deve ser ambientalmente seguro, sem emissoes de gases nocivos, pode ser__:
     - __poliestireno desde que tenha certificacao "Livre de CFC" e de solventes__
-- reentrancia no tecto falso junto da janela para colocacao de suporte de cortinados escondido. Exemplo:
-  ![exemplo](assets/tecto_falso_cortinados.png)
 - rodape: 
   - [exemplo](https://www.leroymerlin.pt/produtos/rodape-200x6x1-3-cm-homestar-cf11-17098746.html):
 
