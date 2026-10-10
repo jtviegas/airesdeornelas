@@ -120,6 +120,12 @@
   - exemplo (aproximado - so encontrei com 3 portas):
     ![exemplo 1](assets/armario_exemplo_sim_3.jpg)
 
+- porta de entrada no quarto e respectiva ombreira
+  - lixamento e preparacao da parte interior da ombreira até ao batente da porta, para posterior pintura (aquando do fim da obra no corredor)
+  - exemplo da are a ser tratada (a verde):
+
+    ![ombreira area interior](assets/ombreira_area_interior.png)
+
 
 
 ## quarto de escritorio
@@ -140,6 +146,12 @@
 - iluminacao tecto em leds
   - junto a estante (3): focos de recuo/angulo 60 (2/3 cm para dentro), temperatura 2700k, diametro 8cm, 5W
   - junto as paredes (6): focos orientaveis de recuo/angulo 45 (2/3 cm para dentro), temperatura 3000k, diametro 8cm, 5W, Índice de Reprodução de Cor (CRI) > 90
+
+- porta de entrada no quarto e respectiva ombreira
+  - lixamento e preparacao da parte interior da ombreira até ao batente da porta, para posterior pintura (aquando do fim da obra no corredor)
+  - exemplo da are a ser tratada (a verde):
+
+    ![ombreira area interior](assets/ombreira_area_interior.png)
 
 
 ## trabalhos dependentes
