@@ -121,8 +121,9 @@
     ![exemplo 1](assets/armario_exemplo_sim_3.jpg)
 
 - porta de entrada no quarto e respectiva ombreira
-  - lixamento e preparacao da parte interior da ombreira até ao batente da porta, para posterior pintura (aquando do fim da obra no corredor)
-  - exemplo da are a ser tratada (a verde):
+  - lixamento, preparacao e pintura da parte interior da ombreira (do lado do quarto) até ao batente da porta
+  - pintura com cor branca "casca-de-ovo" 
+  - exemplo da area a ser tratada (aqui a verde):
 
     ![ombreira area interior](assets/ombreira_area_interior.png)
 
@@ -148,8 +149,9 @@
   - junto as paredes (6): focos orientaveis de recuo/angulo 45 (2/3 cm para dentro), temperatura 3000k, diametro 8cm, 5W, Índice de Reprodução de Cor (CRI) > 90
 
 - porta de entrada no quarto e respectiva ombreira
-  - lixamento e preparacao da parte interior da ombreira até ao batente da porta, para posterior pintura (aquando do fim da obra no corredor)
-  - exemplo da are a ser tratada (a verde):
+  - lixamento, preparacao e pintura da parte interior da ombreira (do lado do quarto) até ao batente da porta
+  - pintura com cor branca "casca-de-ovo" 
+  - exemplo da area a ser tratada (aqui a verde):
 
     ![ombreira area interior](assets/ombreira_area_interior.png)
 
