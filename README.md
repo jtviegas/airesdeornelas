@@ -113,6 +113,8 @@
             VÃO ESQUERDO (90cm)              VÃO DIREITO (90cm)
             (Zona de Pendurar)               (Zona de Arrumação)
     ```
+      ![exemplo](assets/roupeiro_esquema_2.png)
+
   - __notas a discutir__:
 
     - temos de dar 10cm de profundidade ao sistema de portas de correr, o que vai fazer recuar o espaco interior do armario para uma profundidade de 50cm
@@ -120,7 +122,7 @@
     - as portas com esta altura vao ser pesadas, e podem empenar com o tempo, vi sugestoes de sistemas de calha superior com amortecimento (soft-close) em que os painéis das portas têm tensores internos ou perfis laterais de alumínio robustos.
   - exemplo (aproximado - so encontrei com 3 portas):
 
-    ![exemplo 1](assets/armario_exemplo_sim_3.jpg)
+    ![armario v2](assets/armario_exemplo_sim_3.jpg)
 
 - __ombreira da porta de entrada no quarto__
   - lixamento, preparacao e pintura da parte interior da ombreira (do lado do quarto) até ao batente da porta
